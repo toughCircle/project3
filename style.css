@@ -77,8 +77,12 @@ input {
   padding: 3px 10px;
 }
 
-h2 {
+.chart_container h2 {
   padding: 15px 8px;
+}
+
+.repos_list h2 {
+  padding: 15px 0px;
 }
 
 .chart_container img {
@@ -141,7 +145,7 @@ footer {
 }
 
 .repos_list {
-  padding: 8px;
+  padding: 0px 8px;
   width: 100%;
 }
 
@@ -152,7 +156,7 @@ footer {
   justify-content: space-between;
   padding: 8px 0 8px 15px;
   border: 0.5px solid lightgray;
-  margin: 5px 0px;
+  margin: 8px 0px;
 }
 
 .list_item_figure {
