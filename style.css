@@ -75,7 +75,7 @@ input {
   background-color: rgb(97, 113, 119);
   border-radius: 3px;
   padding: 3px 10px;
-  margin-right: 3px;
+  margin-right: 4px;
 }
 
 .chart_container h2 {
@@ -94,21 +94,21 @@ input {
   background-color: rgb(177, 201, 202);
   border-radius: 3px;
   padding: 3px 10px;
-  margin-right: 3px;
+  margin-right: 4px;
 }
 
 .user_figure_followers {
   background-color: rgb(132, 173, 175);
   border-radius: 3px;
   padding: 3px 10px;
-  margin-right: 3px;
+  margin-right: 4px;
 }
 
 .user_figure_following {
   background-color: rgb(172, 172, 172);
   border-radius: 3px;
   padding: 3px 10px;
-  margin-right: 3px;
+  margin-right: 4px;
 }
 
 .user_information_right {
