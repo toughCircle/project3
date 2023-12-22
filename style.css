@@ -75,6 +75,7 @@ input {
   background-color: rgb(97, 113, 119);
   border-radius: 3px;
   padding: 3px 10px;
+  margin-right: 3px;
 }
 
 .chart_container h2 {
